@@ -1,0 +1,4 @@
+-- Restricciones de integridad
+
+ALTER TABLE CONTACTOS ADD CONSTRAINT CON_PK 
+  PRIMARY KEY (ID);
